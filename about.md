@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a PhD student in computational medicine and bioinformatics at UMich. I like to think about ways we can use deep learning and computer vision to improve the diagnosis of disease or draw interesting insights about the functional organization of the brain.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Distance runner. Whiskey enthusiast. Foster kitten momma.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[machinelearningmarlena@gmail.com](mailto:machinelearningmarlena@gmail.com)
