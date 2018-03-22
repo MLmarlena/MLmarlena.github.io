@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![an image alt text]({{ site.baseurl }}/images/uber_pic.png )
+
 I'm a PhD student in computational medicine and bioinformatics at UMich. I like to think about ways we can use deep learning and computer vision to improve the diagnosis of disease or draw interesting insights about the functional organization of the brain.
 
 ### More Information
